@@ -21,9 +21,9 @@
 <details>
   <summary>More about me</summary>
   
-- Am Not Russian 😹
+- Am Not Russian
 - Backend Developer | CyberSecurity Researcher
-- I Use Arch BTW :)
+- I Use nixos BTW :)
 
 </details>
 <br>
