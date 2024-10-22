@@ -86,7 +86,7 @@
 <h2 id="github_stats" align=''>GitHub Stats 👾</h2>
 
 <p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com//whoslucifer/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="stare into nothingness" />
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/whoslucifer/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="stare into nothingness" />
 </p>
 
 <img align="right" width="44%" src="https://64.media.tumblr.com/62710c9aed5c3f4b7d23700e39bf13a6/ac2a7e65e2f3ff68-50/s540x810/41fb833ef965bec6fbfb06bc9199fa0455457726.gif"/>
