@@ -21,9 +21,9 @@
 <details>
   <summary>More about me</summary>
   
-- Am Not Russian
 - Backend Developer | CyberSecurity Researcher
 - I Use nixos BTW :)
+- I have a cat obsession
 
 </details>
 <br>
