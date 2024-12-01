@@ -22,9 +22,6 @@
 - I HAVE A CAT OBSESSION
 
 </details>
-<br>
-
-<br>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -60,7 +57,6 @@
 ---
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👾</h2>
 
 <img align="right" width="44%" src="https://64.media.tumblr.com/62710c9aed5c3f4b7d23700e39bf13a6/ac2a7e65e2f3ff68-50/s540x810/41fb833ef965bec6fbfb06bc9199fa0455457726.gif"/>
  
