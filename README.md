@@ -10,8 +10,6 @@
 <details>
   <summary>About Me</summary>
   
-- Backend Dev
-- I Use nixos BTW :)
 - I HAVE A CAT OBSESSION
 
 </details>
