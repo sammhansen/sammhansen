@@ -21,29 +21,13 @@
 <details>
   <summary>More about me</summary>
   
-- Backend Developer | CyberSecurity Researcher
+- Backend Dev
 - I Use nixos BTW :)
 - I HAVE A CAT OBSESSION
 
 </details>
 <br>
 
----
-
-<h2 id="present_status"> What I'm Upto Currently </h3>
-
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
-
-🏳  Still Learning Bug Hunting & Malware Forensics.
-
-🏳  Writing Some Useful Tools For Myself & Communities
-
-🏳  Building & Contributing To Open Source Projects
-
-🏳  Currently Learning Mobile Pentesting & Web3 
-
-
----
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
