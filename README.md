@@ -11,7 +11,6 @@
   <summary>About Me</summary>
   
 - I HAVE A CAT OBSESSION
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoslucifer&label=Profile%20views&color=0e75b6&style=flat" alt="whoslucifer" /> </p>
 
 </details>
 
