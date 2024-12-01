@@ -7,10 +7,6 @@
   </a>
 </div>
 
-
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
-
-
 <h2 align="left">
   Hi There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> I'm Hansen
