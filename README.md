@@ -23,7 +23,7 @@
   
 - Backend Developer | CyberSecurity Researcher
 - I Use nixos BTW :)
-- I have a cat obsession
+- I HAVE A CAT OBSESSION
 
 </details>
 <br>
