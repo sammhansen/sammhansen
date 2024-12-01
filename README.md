@@ -15,7 +15,7 @@
 <br>
 
 <details>
-  <summary>More about me</summary>
+  <summary>About Me</summary>
   
 - Backend Dev
 - I Use nixos BTW :)
