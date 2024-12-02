@@ -13,6 +13,7 @@
     job = "student";
     age = 21;
     gender = "♀️";
+    zodiac = "scorpio";
     religion = "🏳️‍🌈";
   };
 } : {
