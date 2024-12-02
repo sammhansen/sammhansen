@@ -12,7 +12,7 @@
   about = {
     job = "student";
     age = 21;
-    gender = "♀️";
+    sex = "♀️";
     zodiac = "scorpio";
     religion = "🏳️‍🌈";
   };
