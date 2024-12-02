@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://media.tenor.com/YSuuMZzNw2YAAAAj/obkatiekat-katie.gif" width="100%" height="auto"/></p>
+<p align="center"><img src="https://i.giphy.com/ErZ8hv5eO92JW.webp" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
