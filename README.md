@@ -12,6 +12,7 @@
   about = {
     job = "student";
     age = 21;
+    gender = "female";
   };
 } // {
   learn = with lang; [ meow ];
