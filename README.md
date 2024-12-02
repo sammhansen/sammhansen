@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://i.giphy.com/CyeJcs9X94xBS.webp" width="100%" height="auto"/></p>
 
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=FF9BCE&lines=Hi+There+👋+I'm+Hansen" alt="Hi There 👋 I'm Hansen" />
   </a>
