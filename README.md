@@ -7,12 +7,17 @@
   </a>
 </div>
 
-<details>
-  <summary>About Me</summary>
-  
-- I HAVE A CAT OBSESSION
-
-</details>a
+```
+{
+  about = {
+    job = "student";
+    age = x: 2^5 - x + i;
+  };
+} // {
+  learn = with lang; [ meow ];
+  exp = with lang; [ go rust c lua cpp typescript react vue css csharp ];
+}
+```
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
