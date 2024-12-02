@@ -53,7 +53,7 @@
 
   <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=whoslucifer&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" alt="readme-stats" /> </p>
   <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoslucifer&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" alt="top langs" /> </p>
-  <img src ="https://streak-stats.demolab.com/?user=whoslucifer" />
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=whoslucifer&theme=dark&hide_border=true)
 
 <br>
 
