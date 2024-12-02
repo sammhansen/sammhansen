@@ -11,7 +11,7 @@
 {
   about = {
     job = "student";
-    age = x: 2^5 - x + i;
+    age = 21;
   };
 } // {
   learn = with lang; [ meow ];
