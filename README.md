@@ -17,7 +17,6 @@
     religion = "🏳️‍🌈";
   };
 } : {
-
   learn = with lang; [ meow ];
   exp = with lang; [ go rust c lua cpp typescript react vue css csharp ];
 
