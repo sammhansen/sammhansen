@@ -11,6 +11,7 @@
 {
   about = {
     job = "student";
+    role = "backend dev";
     age = 21;
     sex = "♀️";
     zodiac = "scorpio";
