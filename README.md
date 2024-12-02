@@ -53,7 +53,8 @@
 
   <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=whoslucifer&theme=rose_pine" alt="readme-stats" /> </p>
   <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoslucifer&layout=compact&theme=rose_pine" alt="top langs" /> </p>
-  <p align="left"> <img src="https://streak-stats.demolab.com/?user=whoslucifer" alt="streaks" /> </p>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=whoslucifer)](https://git.io/streak-stats)
+
  
 </div>
 <br>
