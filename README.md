@@ -12,7 +12,8 @@
   about = {
     job = "student";
     age = 21;
-    gender = "female";
+    gender = "♀️";
+    religion = "🏳️‍🌈";
   };
 } : {
   learn = with lang; [ meow ];
