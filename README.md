@@ -28,8 +28,3 @@
   <p align="left"> <img src="https://streak-stats.demolab.com/?user=whoslucifer&theme=dark&hide_border=true" alt="readme-stats" /> </p>
   
 
-<br>
-
-<p align="center">
-<a>👻</a>
-</p>
