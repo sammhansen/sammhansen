@@ -26,9 +26,13 @@
   <div>
     <img align="right" width="44%" src="https://64.media.tumblr.com/62710c9aed5c3f4b7d23700e39bf13a6/ac2a7e65e2f3ff68-50/s540x810/41fb833ef965bec6fbfb06bc9199fa0455457726.gif"/>
   </div>
- <div> 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoslucifer&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/whoslucifer/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=whoslucifer&theme=dark&card_width=450&background=00000000&layout=compact&hide_border=true)](https://git.io/streak-stats) 
- </div> 
+  <div>
+    <a href="https://github.com/whoslucifer/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=whoslucifer&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=%20" alt="Verse's GitHub stats"/>
+    </a>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=whoslucifer&theme=dark&card_width=450&background=00000000&layout=compact&hide_border=true" alt="GitHub Streak"/>
+    </a>
+  </div>
 </div>
 
