@@ -36,9 +36,4 @@
   </div>
 </div>
 
-.flex {
-  display: flex;
-  flex-direction: column;
-}
-
 
