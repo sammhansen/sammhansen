@@ -14,7 +14,7 @@
     dev = "back-end";
     age = 21;
     sex = "♀️";
-    zodiac = "scorpio";
+    zodiac = "sagittarius";
     religion = with pride; [ 🏳️‍🌈 flat-earther ];
   };
 } : {
