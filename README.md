@@ -23,8 +23,6 @@
 }
 ```
 
-<h2 id="github_stats" align=''>GitHub Stats 👾</h2>
-
 <img align="right" width="44%" src="https://64.media.tumblr.com/62710c9aed5c3f4b7d23700e39bf13a6/ac2a7e65e2f3ff68-50/s540x810/41fb833ef965bec6fbfb06bc9199fa0455457726.gif"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoslucifer&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/whoslucifer/github-readme-stats)
