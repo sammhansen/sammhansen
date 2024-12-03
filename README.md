@@ -27,6 +27,6 @@
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoslucifer&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/whoslucifer/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=whoslucifer&theme=dark&card_width=450&bg_color=00000000&layout=compact&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/whoslucifer/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoslucifer&theme=vision-friendly-dark&bg_color=00000000&hide_border=true"" /></a></p>
+ <p align="left"><a href="https://github.com/whoslucifer/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoslucifer&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true"" /></a></p>
 </div>
 
