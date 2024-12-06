@@ -25,7 +25,7 @@
 
 <div>
   <div>
-    <img align="right" width="44%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3l1ZGYycmczbzkzOWx3MXM0ZHV2OTd2ejVld2U0ZjVsdHNyczhmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif"/>
+    <img align="right" width="44%" src="https://64.media.tumblr.com/62710c9aed5c3f4b7d23700e39bf13a6/ac2a7e65e2f3ff68-50/s540x810/41fb833ef965bec6fbfb06bc9199fa0455457726.gif"/>
   </div>
   <div>
     <a href="https://github.com/whoslucifer/github-readme-stats">
