@@ -25,7 +25,7 @@
 
 <div>
   <div>
-    <img align="right" width="44%" src="https://media.tenor.com/_J6n74imhmoAAAAj/eromanga-manga.gif"/>
+    <img align="right" width="44%" src="https://c.tenor.com/ySxI1txmjjIAAAAd/tenor.gif"/>
   </div>
   <div>
     <a href="https://github.com/whoslucifer/github-readme-stats">
