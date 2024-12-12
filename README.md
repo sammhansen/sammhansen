@@ -15,7 +15,6 @@
     age = 21;
     sex = "♀️";
     zodiac = "sagittarius";
-    religion = with pride; [ 🏳️‍🌈 flat-earther ];
   };
 } : {
   learn = with lang; [ meow ];
