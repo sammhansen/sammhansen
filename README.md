@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://tenor.com/view/waifu-miraie-dakimakura-gif-14758597" width="100%" height="auto"/></p>
+<p align="center"><img src="https://c.tenor.com/UPVqxk4yfqIAAAAd/tenor.gif" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
