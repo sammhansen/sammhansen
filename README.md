@@ -1,4 +1,3 @@
-
 <p align="center"><img src="https://c.tenor.com/UPVqxk4yfqIAAAAd/tenor.gif" width="100%" height="auto"/></p>
 
 <div align="center">
