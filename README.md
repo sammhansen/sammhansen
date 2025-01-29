@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlsNzhkdjl2c3dvdzEzMHhjZG0xdTR1cTNmeTZ6a3M4NDNuNnp1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FZICwyOixwpL2p5x5r/giphy.gif" width="100%" height="auto"/></p>
+<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGtpemhwampyaHJ0ajhldG53aDV6bXJrMm9oemxubDhlYzllMTNjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mJIa7rg9VPEhzU1dyQ/giphy.gif" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
