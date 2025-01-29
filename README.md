@@ -23,7 +23,7 @@
 
 <div>
   <div>
-    <img align="right" width="44%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHo1YXB2dXQ2eGFqcTM3bXhvN2VybTV6ZmVjajY2NDBuMXcwdnFuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/svAVUj69hK5a0/giphy.gif"/>
+    <img align="right" width="44%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzcyMmk1amZ3em1qdW0zbXZkYTR2YTZmY2JzODB2ZG5jNDYyMjVudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsRM4qPhFGUVIlVzRs/giphy.gif"/>
   </div>
   <div>
     <a href="https://github.com/sammhansen/github-readme-stats">
