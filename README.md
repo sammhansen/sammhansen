@@ -1,4 +1,4 @@
-<p align="center"><img src="https://c.tenor.com/UPVqxk4yfqIAAAAd/tenor.gif" width="100%" height="auto"/></p>
+<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnluNHgzMWx2MHNlZ29qbzU4bWNqNDg0c3QzbTdrNnpwazc1amwyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2wPMwYloTyOQ0/giphy.gif" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
