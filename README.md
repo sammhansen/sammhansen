@@ -12,7 +12,7 @@
     job = "student";
     dev = "back-end";
     age = 21;
-    sex = "♀️";
+    pronouns = [ "she" "her" ];
     zodiac = "sagittarius";
   };
 } : {
