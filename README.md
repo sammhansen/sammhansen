@@ -30,7 +30,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=sammhansen&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=%20" alt="Verse's GitHub stats"/>
     </a>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=sammhansen&theme=dark&card_width=450&background=00000000&layout=compact&hide_border=true" alt="GitHub Streak"/>
+      <img src="https://streak-stats.demolab.com?user=sammhansen" alt="GitHub Streak"/>
     </a>
   </div>
 </div>
