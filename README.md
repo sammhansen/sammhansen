@@ -12,8 +12,6 @@
     job = "student";
     dev = "back-end";
     age = 21;
-    pronouns = [ "she" "her" ];
-    zodiac = "sagittarius";
   };
 } : {
   learn = with lang; [ meow ];
