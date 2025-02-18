@@ -15,7 +15,7 @@
   };
 } : {
   learn = with lang; [ meow ];
-  exp = with lang; [ go rust c c++ lua nix typescript react vue css scss ];
+  exp = with lang; [ go rust c c++ lua nix typescript react vue scss ];
 }
 ```
 
