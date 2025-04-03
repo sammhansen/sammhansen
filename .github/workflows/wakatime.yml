@@ -2,7 +2,8 @@ name: WakaTime Metrics
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # Runs daily at 6 AM EAT (3 AM UTC)
+    # runs at 00:00AM UTC
+    - cron: '0 0 * * *'  
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
@@ -14,4 +15,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: "True"
 
