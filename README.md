@@ -29,15 +29,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2015%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-320.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-400.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 276.4 kB Used in GitHub's Storage 
+> 📦 276.5 kB Used in GitHub's Storage 
  > 
-> 🏆 503 Contributions in the Year 2025
+> 🏆 508 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -73,17 +73,17 @@ Linux                    14 hrs 30 mins      ███████████�
 **I Mostly Code in Nix** 
 
 ```text
-Shell                    9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Shell                    8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 
 
 
 
- Last Updated on 27/04/2025 02:01:58 UTC
+ Last Updated on 28/04/2025 01:53:58 UTC
 <!--END_SECTION:waka-->
 
 
