@@ -1,15 +1,12 @@
-<div align=center>
-
-# **Sam Hansen** <small><sub>[/sam hansen/](http://ipa-reader.xyz/?text=osman%20fa%C9%BEuk%CA%B0%20ba%CC%9Fj%C9%BEam&voice=Joey)</sub></small>
-
-</div>
-
-
-### Get to know me:
-- I am currently studying **Software Engineering** at [Zetech University](https://www.zetech.ac.ke/)
-- I am using **NixOS** with Hyprland & River. Here is my [nix configuration flake](https://github.com/sammhansen/atlantis)
-- Here is my wakatime acc. [wakatime](https://wakatime.com/@sammhansen).
-
+```
+  {
+    name = "Sam Hansen";
+    occupation = "student";
+    institution = "Zetech University";
+    sex = "yeah..idk either";
+    age = 21;
+  }
+```
 
 <div align=center>
 
