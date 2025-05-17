@@ -1,12 +1,8 @@
-```
-  {
-    name = "Sam Hansen";
-    occupation = "student";
-    institution = "Zetech University";
-    sex = "yeah..idk either";
-    age = 21;
-  }
-```
+Get to know me:
+ - Am Hansen
+ - Am 21
+ - Am from Nairobi, Kenya
+ - Am currently doing a Bachelors of Software Engineering a Zetech University
 
 <div align=center>
 
