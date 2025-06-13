@@ -6,8 +6,6 @@ Get to know me:
 
 <div align=center>
 
-find me at:
-
 [![LinkedIn](https://img.shields.io/badge/Linkedin-black?&logo=linkedin&style=for-the-badge&logoColor=0b62c3)](https://www.linkedin.com/in/samm-hansen/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/9279225/sam-hansen)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/t4m4r4x)
