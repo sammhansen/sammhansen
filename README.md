@@ -1,42 +1,8 @@
-```
-struct Hansen {
-  name: String,
-  age: u16,
-  occupation: String,
-  uni: String,
-  location: String,
-  skills: Vec<String>,
-}
-
-fn about_me() -> Hansen {
-  let me = Hansen {
-    name: "Sam Hansen".to_string(),
-    age: 21,
-    occupation: "student".to_string(),
-    uni: "Zetech".to_string(),
-    location: "Nairobi".to_string(),
-    skills: vec![
-      "rust".to_string(),
-      "lua".to_string(),
-      "typeScript".to_string(),
-      "nix".to_string(),
-      "linux".to_string(),
-      "docker".to_string().
-      "sql".to_string(),
-      "mongodb".to_string(),
-      
-   ],  
-  }
-}
-
-fn feed_the_hr() {
-  about_me();
-}
-
-fn main() {
-  feed_the_hr();
-}
-```
+Get to know me:
+ - Am Hansen
+ - Am 21
+ - Am from Nairobi, Kenya
+ - Am currently doing a Bachelors of Software Engineering a [Zetech University](https://www.zetech.ac.ke/)
 
 <div align=center>
 
