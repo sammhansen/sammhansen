@@ -1,8 +1,8 @@
 Get to know me:
- - Am Hansen
- - Am 21
- - Am from Nairobi, Kenya
- - Am currently pursuing a Bachelor's Degree in Software Engineering at [Zetech University](https://www.zetech.ac.ke/)
+ - I'm Hansen
+ - I'm 21
+ - I'm from Nairobi, Kenya
+ - I'm currently pursuing a Bachelor's Degree in Software Engineering at [Zetech University](https://www.zetech.ac.ke/)
 
 <div align=center>
 
