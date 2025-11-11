@@ -12,11 +12,11 @@
   - eager to contribute to new and challenging projects
 
   - with skills in:
-        - Programming Languages: Rust, Dart, Bash, Nix, Go, Lua
-        - System Administration: Linux, Nixos
-        - DevOps: Docker, Kubernetes, Github Actions 
-        - Web Dev: React with Typescript
-        - Mobile Dev: Flutter with Dart
+       - Programming Languages: Rust, Dart, Bash, Nix, Go, Lua
+       - System Administration: Linux, Nixos
+       - DevOps: Docker, Kubernetes, Github Actions 
+       - Web Dev: React with Typescript
+       - Mobile Dev: Flutter with Dart
 
   - currently learning: 
        - Devops
