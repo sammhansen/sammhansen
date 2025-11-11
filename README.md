@@ -1,5 +1,6 @@
 <div align=center>
 
+  [![Discord](https://img.shields.io/badge/Discord-black?&logo=discord&style=for-the-badge&logoColor=0b62c3)](https://discord.com/users/723395805800562729)
   [![LinkedIn](https://img.shields.io/badge/Linkedin-black?&logo=linkedin&style=for-the-badge&logoColor=0b62c3)](https://www.linkedin.com/in/lifeashansen/)
   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/23392679/lifeashansen)
   [![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@lifeashansen)
