@@ -22,7 +22,7 @@
        - Devops
        - Go
 
-  - planning to learn in the future:
+  - planning to learn these in the future:
        - Java/Springboot
   
   - interested in:
