@@ -1,8 +1,34 @@
-Get to know me:
- - I'm Hansen
- - I'm 21
- - I'm from Nairobi, Kenya
- - I'm currently pursuing a Bachelor's Degree in Software Engineering at [Zetech University](https://www.zetech.ac.ke/)
+Hello there, my name is Hansen, and I'm:
+
+  an experienced software engineer with a passion for building and learning
+  
+  skilled in a variety of programming languages and cloud platforms
+  
+  from Nairobi, Kenya
+  
+  currently pursuing a Bachelor's Degree in Software Engineering at [Zetech University](https://www.zetech.ac.ke/)
+
+  eager to contribute to new and challenging projects
+
+  with skills in:
+    1. Programming Languages: Rust, Dart, Bash, Nix, Go, Lua
+    2. System Administration: Linux, Nixos
+    3. DevOps: Docker, Kubernetes, Github Actions 
+    4. Web Dev: React with Typescript
+    5. Mobile Dev: Flutter with Dart
+
+I'm currently learning: 
+   - Devops
+   - Go
+
+What I'm planning to learn in the future:
+   - Java/Springboot
+  
+My hobbies:
+   - Piano
+   - Chess
+   - Bush walking
+ 
 
 <div align=center>
 
