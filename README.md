@@ -1,17 +1,12 @@
 **Hello there, my name is Hansen, and I'm:**
 
   - an experienced software engineer with a passion for building and learning
-    
-  
-  - skilled in a variety of programming languages and cloud platforms
   
   - from Nairobi, Kenya
   
   - currently pursuing a Bachelor's Degree in Software Engineering at [Zetech University](https://www.zetech.ac.ke/)
- 
-  - eager to contribute to new and challenging projects
 
-  - with skills in:
+  - skilled in:
        - Programming Languages: Rust, Dart, Bash, Nix, Go, Lua
        - System Administration: Linux, Nixos
        - DevOps: Docker, Kubernetes, Github Actions 
