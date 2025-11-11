@@ -1,17 +1,18 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/samm-hansen/">
-    <img src="https://img.shields.io/badge/Linkedin-black?&logo=linkedin&style=for-the-badge&logoColor=0b62c3" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Linkedin-0b62c3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://stackoverflow.com/users/23392679/w-t-hansen">
-    <img src="https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stack-overflow" alt="Stack Overflow">
+    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
   </a>
   <a href="https://x.com/t4m4r4x">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x" alt="X">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
   <a href="https://wakatime.com/@sammhansen">
-    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" alt="WakaTime">
+    <img src="https://img.shields.io/badge/WakaTime-333333?style=for-the-badge&logo=WakaTime&logoColor=white" alt="WakaTime">
   </a>
 </p>
+
 
 **Hello there, my name is Hansen, and I'm:**
 
