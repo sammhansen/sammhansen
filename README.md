@@ -7,11 +7,11 @@
   
 </div>
 
+<div align=center>
 
-
-<p align="center">
-  ## Hi 👋, I'm Hansen. Hansen is:
-</p>
+  ## **Hi 👋, I'm Hansen. Hansen is:**
+  
+</div>
 
   - an experienced software engineer with a passion for building and learning
   
