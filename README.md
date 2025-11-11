@@ -1,6 +1,7 @@
-- **Hello there, my name is Hansen, and I'm:**
+**Hello there, my name is Hansen, and I'm:**
 
   - an experienced software engineer with a passion for building and learning
+    
   
   - skilled in a variety of programming languages and cloud platforms
   
