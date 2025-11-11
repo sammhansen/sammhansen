@@ -36,9 +36,9 @@
        - Java/Springboot
   
   - interested in:
-       - Piano
        - Chess
-       - Bush walking
+       - Piano
+       - Solo bush walking
  
 
 <div align=center>
