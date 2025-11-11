@@ -9,7 +9,9 @@
 
 
 
-## **Hi 👋, I'm Hansen. Hansen is:**
+<p align="center">
+  ## Hi 👋, I'm Hansen. Hansen is:
+</p>
 
   - an experienced software engineer with a passion for building and learning
   
