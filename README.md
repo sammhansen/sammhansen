@@ -33,7 +33,8 @@
        - Go
 
   - planning to learn these in the future:
-       - Java/Springboot
+       - Java & Springboot
+       - MLOps
   
   - interested in:
        - Chess
