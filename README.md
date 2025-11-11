@@ -7,11 +7,14 @@
   - currently pursuing a Bachelor's Degree in Software Engineering at [Zetech University](https://www.zetech.ac.ke/)
 
   - skilled in:
-       - Programming Languages: Rust, Dart, Bash, Nix, Go, Lua
+       - Languages: Rust, Dart, Bash, Nix, Go, Lua, SQL?
        - System Administration: Linux, Nixos
+       - Databases: PostgreSQL, MongoDB, Supabase
+       - Cloud Platforms: Supabase, Firebase
        - DevOps: Docker, Kubernetes, Github Actions 
        - Web Dev: React with Typescript
        - Mobile Dev: Flutter with Dart
+       - Others: Tailwindcss
 
   - currently learning: 
        - Devops
