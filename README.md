@@ -8,7 +8,7 @@
 
 <div align=center>
 
-  ## **Hi 👋, I'm Hansen. Hansen is:**
+  ## **Hi 👋, I'm Hansen, and I am**
   
 </div>
 
